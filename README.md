@@ -27,5 +27,4 @@ Some of graph theory algorithms
 
 ---
 
-**Written by Hichem FARAOUN**
-**© 2023 Hichem FARAOUN. All rights reserved.**
+**© 2023 Written by Hichem FARAOUN. All rights reserved.**
